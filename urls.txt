@@ -1,0 +1,5 @@
+https://developer.amazon.com/es/docs/devconsole/test-your-skill.html#ways-to-test-an-alexa-skill
+https://developers.google.com/assistant
+https://developers.google.com/assistant/community
+https://developer.microsoft.com/es-es/cortana
+https://developer.apple.com/siri/
