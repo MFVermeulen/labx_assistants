@@ -1,6 +1,15 @@
+AMAZON-ALEXA
+************
 https://developer.amazon.com/es/docs/devconsole/test-your-skill.html#ways-to-test-an-alexa-skill
+https://developer.amazon.com/es/docs/devconsole/about-the-developer-console.html
+
+GOOGLE ASSISTANT
+****************
 https://developers.google.com/assistant
 https://developers.google.com/assistant/community
+https://dialogflow.com/ (compatible with the others so)
+
+OTHERS
+******
 https://developer.microsoft.com/es-es/cortana
 https://developer.apple.com/siri/
-https://dialogflow.com/
