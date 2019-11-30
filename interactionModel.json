@@ -1,0 +1,65 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "laboratorio test",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": [
+                        "Cuando es el laboratorio de Travelgate"
+                    ]
+                },
+                {
+                    "name": "ConsultarQuery",
+                    "slots": [
+                        {
+                            "name": "FechaA",
+                            "type": "AMAZON.DATE"
+                        },
+                        {
+                            "name": "FechaB",
+                            "type": "AMAZON.DATE"
+                        }
+                    ],
+                    "samples": [
+                        "Dame el numero de reservas entre el {FechaA} y {FechaB}"
+                    ]
+                }
+            ],
+            "types": [
+                {
+                    "name": "String",
+                    "values": [
+                        {
+                            "name": {
+                                "value": "mañana"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "ahora"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "hoy"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
